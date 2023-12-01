@@ -7,7 +7,7 @@ def main():
             super.__init__()
             uic.loadUi('UI.ui')
 
-
+фывафыва
 
 if __name__ == '__main__':
     main()
